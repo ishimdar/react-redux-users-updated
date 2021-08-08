@@ -1,0 +1,8 @@
+export const SET_USER_LIST = 'SET_USER_LIST';
+export const SELECTED_USER = 'SELECT_USER';
+export const SAVE_USER_INFO = 'SAVE_USER_INFO';
+
+export const SET_TODO_LIST = 'SET_TODO_LIST';
+export const UPDATE_TODO_LIST = 'UPDATE_TODO_LIST';
+export const ADD_NEW_TODO = 'ADD_NEW_TODO';
+export const FILTERS_TODO_TYPE = 'FILTERS_TODO_TYPE';
